@@ -1,0 +1,17 @@
+# Shortcuts 
+
+alias _="sudo"
+alias g="git"
+alias rr="rm -rf"
+
+# Directory traversal
+
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias ni="npm install"
+alias nu="npm uninstall"
+
+# Specific projects 
+alias proj="cd Desktop/Projects"
+
